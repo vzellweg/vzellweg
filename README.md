@@ -47,8 +47,8 @@ TypeScript • Vue 3 • Nuxt • React • Tailwind • WCAG Accessibility comp
 Node.js • AWS Lambda • DynamoDB • API Gateway • CI/CD • Serverless Architectures
 
 #### 🎨 Visualization & Simulation  
-Three.js • WebGL • GLTF/GLB Pipelines • Blender • P5.js  
-*(Bird photography simulator, surveying simulation, virtual chemistry lab)* :contentReference[oaicite:0]{index=0}
+Three.js • WebGL • GLTF/GLB Pipelines • Blender • P5.js • Animated + Interactive SVG's
+*(Bird photography simulator, surveying simulation, virtual chemistry lab)*
 
 #### 🧪 Testing & DX  
 Jest • Cypress • Vitest • GitHub Actions • Workflow automation
