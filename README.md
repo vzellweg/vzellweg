@@ -48,6 +48,7 @@ Node.js • AWS Lambda • DynamoDB • API Gateway • CI/CD • Serverless Arc
 
 #### 🎨 Visualization & Simulation  
 Three.js • WebGL • GLTF/GLB Pipelines • Blender • P5.js • Animated + Interactive SVG's
+
 *(Bird photography simulator, surveying simulation, virtual chemistry lab)*
 
 #### 🧪 Testing & DX  
