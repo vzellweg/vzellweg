@@ -8,7 +8,7 @@ Senior Software Engineer • Full-Stack TypeScript • 3D Web Experiences • AI
 
 ### 🚀 About Me
 
-I'm a senior engineer with **7+ years of experience** building scalable full-stack applications, immersive **2D/3D learning simulations**, and novell UI systems. My work blends creativity with strong experience bootstrapping projects, focusing on:
+I'm a senior engineer with **7+ years of experience** building scalable full-stack applications, immersive **2D/3D learning simulations**, and novel UI systems. My work blends creativity with strong experience bootstrapping projects, focusing on:
 
 - 🧪 **Virtual labs** and **simulations** for online higher education
 - 🌐 **Fullstack TypeScript** applications (Vue/Nuxt, React)  
@@ -41,7 +41,7 @@ AI supports my workflows across prototyping, test coverage, code review, explora
 ### 🛠️ Core Skills
 
 #### 💻 Frontend & UI  
-TypeScript • Vue 3 • Nuxt • React • Tailwind • WCAG Accessibility compliance
+TypeScript • Vue 3 • Nuxt • React • Tailwind • WCAG Accessibility compliance • Requirements Engineering
 
 #### ⚙️ Backend & Cloud  
 Node.js • AWS Lambda • DynamoDB • API Gateway • CI/CD • Serverless Architectures
