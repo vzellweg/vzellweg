@@ -67,8 +67,8 @@ Jest • Cypress • Vitest • GitHub Actions • Workflow automation
 
 ### 📚 Interests & Current Focus
 
-- AI-assisted engineering patterns  
-- Interactive learning interfaces + simulation research  
+- AI-assisted engineering patterns + automation 
+- Interactive multimedia interfaces
 - High-performance rendering on the web  
 - Automated testing and developer experience  
 - Human-centered technical design  
