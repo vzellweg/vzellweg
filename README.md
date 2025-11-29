@@ -56,12 +56,12 @@ Jest • Cypress • Vitest • GitHub Actions • Workflow automation
 
 ---
 
-### 🏆 Highlights
+### 🏆 Highlights from work at OSU Ecampus
 
-- Led a remote engineering team building applications used by thousands of learners each year  
-- Delivered **12+ independent fullstack applications on schedule** while modernizing the front-end stack  
-- Built high-performance 3D experiences including a physics-based **bird identification simulator** and a **surveying simulation** using panoramic environments  
-- Migrated legacy systems and implemented platforms supporting secure content, accessibility, and long-term maintainability  
+- Led a remote engineering team building applications used by hundreds of learners each year  
+- Delivered **16+ independent fullstack applications on schedule** over the course of 4 years while modernizing the front-end stack  
+- Built high-performance 3D experiences including a physics-based **bird identification simulator** and a **construction surveying simulation** 
+- Migrated legacy systems and implemented platforms supporting accessibility and long-term maintainability  
 - Experienced working fully **remote** with async workflows and cross-team collaboration patterns  
 
 ---
