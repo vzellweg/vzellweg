@@ -16,7 +16,7 @@ I'm a senior engineer with **7+ years of experience** building scalable full-sta
 - 🎮 Web-based **interactive multimedia experiences** using **Three.js + GSAP + P5.js + Tone.js**  
 - 🤖 **AI-integrated workflows** for ideation, architecture, refactoring, CI automation, and maintenance
 
-👉 Most of my production work is hosted in private github repositories, so you won’t see many repos here yet.
+👉 Most of my production work is hosted in private github repositories, so you won’t see many repos here yet. Most of the projects in my personal github are for experiments with new web dev stacks and system architectures. 
 
 ---
 
