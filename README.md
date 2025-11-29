@@ -73,7 +73,8 @@ Jest • Cypress • Vitest • GitHub Actions • Workflow automation
 - High-performance rendering on the web  
 - Automated testing and developer experience  
 - Human-centered technical design  
-- Applying innovation engineering to real-world problems  
+- Applying innovation engineering to real-world problems
+- Sound design and music production
 
 ---
 
