@@ -22,7 +22,7 @@ I'm a senior engineer with **7+ years of experience** building scalable full-sta
 
 ### 🧠 AI in My Workflow
 
-I approach AI not as a novelty but as a productivity and automation tool in the software development lifecycle. 
+I approach AI not as a novelty but as a massively useful productivity and automation tool in the software development lifecycle. 
 
 Tools I actively use include:
 
